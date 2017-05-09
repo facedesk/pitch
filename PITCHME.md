@@ -1,7 +1,4 @@
 # Modular Markdown Demo
 
----?include=/testme.md
+---?include=/1_intro_welcome.md
 
----?include=md/demo.md
-
----?include=md/summary.md
