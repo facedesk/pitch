@@ -13,27 +13,31 @@ Your success depends on your level of effort.
 ---
 ##So why are we here?
 ###take out sheet of paper, and write the reason why you are learning to code. 
- -What is your driving force?
- -What do you want to build?
- -What can you not stop thinking about?
- -Who will you impact?
+ - What is your driving force?
+ - What do you want to build?
+ - What can you not stop thinking about?
+ - Who will you impact?
 ---
 ###Write your name at the top and hand in that sheet to your instructor. 
 
 ---
 ##Some ground rules:
- -Don't be a jerk
- -Come to class on time, ready to learn
- -Don't give up
- -Stand on your own two feet
- -Help eachother!
- --Sometimes that means letting other people work it out
+ - Don't be a jerk
+ - Come to class on time, ready to learn
+ - Don't give up
+ - Stand on your own two feet
+ - Help eachother!
+ -- Sometimes that means letting other people work it out
+---
+##Some more ground rules:
+ -Dress comfortably, but appropriately
+ -
 ---
 #Zero tolerance
  -Disrespect to other individuals
  --Instructors
  --Students
  --Yourself
- -Alcohol/Drugs on campus
+ -Alcohol/Drugs
  -Unexcused Absense
 ---
