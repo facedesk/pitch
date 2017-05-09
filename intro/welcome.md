@@ -4,18 +4,17 @@
 ---
 ##
 Your success depends on your level of effort.
- -Aha moment
- -Time in projects
- -NOT GIVING UP
+ - Aha moment
+ - Time in projects
+ - NOT GIVING UP
 ---
 ##Why learn to code?
 ![Video](https://www.youtube.com/embed/6XvmhE1J9PY)
 ---
-##So why are we here?
+##Why are you here?
 ###take out sheet of paper, and write the reason why you are learning to code. 
  - What is your driving force?
  - What do you want to build?
- - What can you not stop thinking about?
  - Who will you impact?
 ---
 ###Write your name at the top and hand in that sheet to your instructor. 
@@ -23,26 +22,27 @@ Your success depends on your level of effort.
 ---
 ##Some ground rules:
  - Don't be a jerk
- - Come to class on time, ready to learn
+ - Come to class on time, ready to learn. 
  - Don't give up
  - Stand on your own two feet
  - Help eachother!
- -- Sometimes that means letting other people work it out
+  - Sometimes that means letting other people work it out
 ---
 ##Some more ground rules:
- -Dress comfortably, but appropriately
- -
+ - Dress comfortably, but appropriately
+ - Accept feedback from your instructors, they are here for you
+ - Do not give up, no matter how hard it gets
 ---
 #Zero tolerance
  - Disrespect to other individuals
- -- Instructors
- -- Students
- -- Yourself
+  - Instructors
+  - Students
+  - Yourself
  - Alcohol/Drugs
  - Unexcused Absense
 ---
-#Coding Classes
-##Can be challenging. You will..
+##Coding Classes Can be challenging. 
+##   You will..
 ###struggle
 ###facedesk
 ###learn from your struggle
@@ -50,8 +50,8 @@ Your success depends on your level of effort.
 ---
 #You will only succeed when you do not give up.
 ---
-#You will only succeed when you have tried
-##and tried
+###You will only succeed when you have tried
+###and tried
 ###and tried
 ####and tried
 #####and tried
@@ -60,3 +60,6 @@ Your success depends on your level of effort.
 #And finally the answer comes to you
 ##The harder challenge
 ##the greater the prize
+---
+#So why program?
+![Video](https://www.youtube.com/embed/nKIu9yen5nc)
