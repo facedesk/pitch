@@ -1,4 +1,4 @@
-# Modular Markdown Demo
+# Recurve
 
 ---?include=/1_intro_welcome.md
 
