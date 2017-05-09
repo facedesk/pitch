@@ -34,10 +34,29 @@ Your success depends on your level of effort.
  -
 ---
 #Zero tolerance
- -Disrespect to other individuals
- --Instructors
- --Students
- --Yourself
- -Alcohol/Drugs
- -Unexcused Absense
+ - Disrespect to other individuals
+ -- Instructors
+ -- Students
+ -- Yourself
+ - Alcohol/Drugs
+ - Unexcused Absense
 ---
+#Coding Classes
+##Can be challenging. You will..
+###struggle
+###facedesk
+###learn from your struggle
+###succeed
+---
+#You will only succeed when you do not give up.
+---
+#You will only succeed when you have tried
+##and tried
+###and tried
+####and tried
+#####and tried
+###### and tried
+---
+#And finally the answer comes to you
+##The harder challenge
+##the greater the prize
