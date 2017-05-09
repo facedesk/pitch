@@ -12,11 +12,11 @@ Your success depends on your level of effort.
 ![Video](https://www.youtube.com/embed/6XvmhE1J9PY)
 ---
 ##So why are we here?
-#take out sheet of paper, and write the reason why you are learning to code. 
+###take out sheet of paper, and write the reason why you are learning to code. 
 -What is your driving force?
 -What do you want to build?
 -What can you not stop thinking about?
 -Who will you impact?
 ---
-Write your name at the top and hand in that sheet to your instructor. 
+###Write your name at the top and hand in that sheet to your instructor. 
 
