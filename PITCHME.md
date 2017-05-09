@@ -1,4 +1,7 @@
 # Recurve
-
----?include=/1_intro_welcome.md
-
++++
+Next!
+---?include=/intro/welcome.md
++++
+Next!
+---?include=/intro/computational_mindset.md
